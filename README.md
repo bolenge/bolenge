@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Excited when it comes to reading and getting challenged
-- 🎓 &nbsp; Bachelor's degree in software engineering at <a href="http://isipa.cd">I.S.I.P.S</a>
+- 🎓 &nbsp; Bachelor's degree in software engineering at <a href="http://isipa.cd">I.S.I.P.A</a>
 - 💼 &nbsp; Working at Kinshasa Digital
 - 🌱 &nbsp; Lovers of the development of strong backend applications
 
