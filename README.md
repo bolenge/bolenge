@@ -1,32 +1,31 @@
 
-### Hey all I'm Pacifique LINJANJA 👋
+### Hey ! I'm Don de Dieu Bolenge 👋
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Excited when it comes to reading and getting challenged
-- 🎓 &nbsp; Software Engineer graduated at ULPGL - Goma 
-- 💼 &nbsp; Working at Kinshasa Digital | Microverse | CRES
-- 🌱 &nbsp; Learning how to build strong backend applications and Machine Learning
-- ✍️ &nbsp; Got a hobby on Chess 
+- 🎓 &nbsp; Bachelor's degree in software engineering at <a href="http://isipa.cd">I.S.I.P.S</a>
+- 💼 &nbsp; Working at Kinshasa Digital
+- 🌱 &nbsp; Lovers of the development of strong backend applications
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;  JavaScript | Typescript | React & Redux | VueJs | React Native | Ruby & RoR | Php & Laravel | Node.js & ExpressJs
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap ReactJS | VueJs 
-- 🛢 &nbsp; MySQL | MongoDB | PostgeSQL | PouchDb | CouchDb | sqlite
-- 🔧 &nbsp; Git | GitHub | GitFlow
+- 💻 &nbsp;  JavaScript | VueJs | Php & Laravel | Node.js & ExpressJs
+- 🌐 &nbsp; HTML | CSS | JavaScript | VueJs & Nuxtjs
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Git | GitHub | Bitbucket
 <br/>
 
-[![Pacifique Linjanja's github stats](https://github-readme-stats.vercel.app/api?username=pacyL2K19&show_icons=true&theme=radical)](https://github.com/pacyL2K19/github-readme-stats)
+[![Don de Dieu Bolenge's github stats](https://github-readme-stats.vercel.app/api?username=bolenge&show_icons=true&theme=radical)](https://github.com/bolenge/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacyL2K19&show_icons=true&theme=radical&layout=compact)](https://github.com/pacyL2K19/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolenge&show_icons=true&theme=radical&layout=compact)](https://github.com/bolenge/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/pacifique-linjanja/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pacifiquelinjanja-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/linjanjapacifique/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-linjanjapacifique__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:pacilinja2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pacilinja2@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
+<a href="https://linkedin.com/in/don-de-dieu-bolenge/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DondeDieuBolenge-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/dondedieu.bolenge/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-DondeDieuBolenge-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:pacilinja2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dondedieubolenge@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
 </p>
 
-⭐️ From [pacyL2K19](https://github.com/pacyL2K19)
+⭐️ From [bolenge](https://github.com/bolenge)
