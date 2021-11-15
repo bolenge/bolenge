@@ -10,10 +10,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;  JavaScript | VueJs | Php & Laravel | Node.js & ExpressJs
-- 🌐 &nbsp; HTML | CSS | JavaScript | VueJs & Nuxtjs
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | GitHub | Bitbucket
+- 💻 &nbsp; Language : JavaScript | PHP | Dart | TypeScript
+- 👨‍💻 &nbsp; Backend  : Nodejs | Laravel | Flutter
+- 🌐 &nbsp; Frontend : HTML | CSS | JavaScript | VueJs & Nuxtjs | Jquery | SASS
+- 🛢 &nbsp; Database : MySQL | MongoDB | BolengeDB
+- 🔧&nbsp; Tools    : Git | GitHub | Bitbucket
 <br/>
 
 [![Don de Dieu Bolenge's github stats](https://github-readme-stats.vercel.app/api?username=bolenge&show_icons=true&theme=radical)](https://github.com/bolenge/github-readme-stats)
@@ -28,4 +29,4 @@
 <a href="mailto:pacilinja2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dondedieubolenge@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
 </p>
 
-⭐️ From [bolenge](https://github.com/bolenge)
+⭐️ [@bolenge](https://github.com/bolenge)
