@@ -19,7 +19,7 @@
   <div>
     <img
       align="left"
-      width="50px"
+      width="50%"
       alt="My Stats"
       src="https://github-readme-stats.vercel.app/api?username=bolenge&show_icons=true&theme=radical"
       />
