@@ -26,7 +26,6 @@
 
 <p>
   <img
-    align="right"
     width="50%"
     alt="Top langs"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolenge&show_icons=true&theme=radical&layout=compact"
