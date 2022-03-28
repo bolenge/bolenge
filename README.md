@@ -10,7 +10,7 @@
 
 * Programming Languages
 
-<img src="/logos/php.png" alt="php" width="50" /><img src="/logos/javascript.png" alt="javascript" width="50" /><img src="/logos/html.png" alt="html" width="50" /><img src="/logos/css.png" alt="css" width="50" />
+<img src="/logos/php.png" alt="php" width="50" style="margin-right: 10px;" /><img src="/logos/javascript.png" alt="javascript" width="50" style="margin-right: 10px;" /><img src="/logos/html.png" alt="html" width="50" style="margin-right: 10px;" /><img src="/logos/css.png" alt="css" width="50" style="margin-right: 10px;" />
 
 <p>
   <img
