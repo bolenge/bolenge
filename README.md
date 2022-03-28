@@ -25,16 +25,23 @@
       />
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolenge&show_icons=true&theme=radical&layout=compact" alt="Top langs" align="right" />
+    <img
+      align="right"
+      width="50%"
+      alt="Top langs"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolenge&show_icons=true&theme=radical&layout=compact"
+    />
   </div>
 </div>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<div width="100%">
+  <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
-<a href="https://linkedin.com/in/don-de-dieu-bolenge/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DondeDieuBolenge-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/dondedieu.bolenge/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-DondeDieuBolenge-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:pacilinja2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dondedieubolenge@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
-</p>
+  <p align="center">
+  <a href="https://linkedin.com/in/don-de-dieu-bolenge/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DondeDieuBolenge-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.instagram.com/dondedieu.bolenge/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-DondeDieuBolenge-blue?style=flat-square&logo=instagram"></a>
+  <a href="mailto:pacilinja2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dondedieubolenge@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
+  </p>
+</div>
 
 ⭐️ [@bolenge](https://github.com/bolenge)
