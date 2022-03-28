@@ -17,10 +17,10 @@
 
 <div style="display: flex;">
   <div style="width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=bolenge&show_icons=true&theme=radical" alt="My Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=bolenge&show_icons=true&theme=radical" alt="My Stats" align="left" />
   </div>
   <div style="width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolenge&show_icons=true&theme=radical&layout=compact" alt="Top langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolenge&show_icons=true&theme=radical&layout=compact" alt="Top langs" align="right" />
   </div>
 </div>
 
