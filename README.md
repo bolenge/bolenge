@@ -31,9 +31,10 @@
 
 <p>
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=bolenge&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
-    alt="GitHub Streak Stats"
+    width="100%"
     height="200"
+    alt="GitHub Streak Stats"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=bolenge&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
   />
 </p>
 
