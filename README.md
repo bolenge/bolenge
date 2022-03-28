@@ -18,14 +18,12 @@
 <p>
   <img
     align="left"
-    width="50%"
-    height="300px"
+    width="53%"
     alt="My Stats"
     src="https://github-readme-stats.vercel.app/api?username=bolenge&show_icons=true&theme=radical"
   />
   <img
     width="45%"
-    height="300px"
     alt="Top langs"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolenge&show_icons=true&theme=radical&layout=compact"
   />
