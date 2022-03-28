@@ -15,22 +15,23 @@
 - 🔧&nbsp; Tools    : Git | GitHub | Bitbucket
 <br/>
 
-<div>
-  <div>
-    <img
-      align="left"
-      width="50%"
-      alt="My Stats"
-      src="https://github-readme-stats.vercel.app/api?username=bolenge&show_icons=true&theme=radical"
-      />
-      <img
-      align="right"
-      width="50%"
-      alt="Top langs"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolenge&show_icons=true&theme=radical&layout=compact"
+<p>
+  <img
+    align="left"
+    width="50%"
+    alt="My Stats"
+    src="https://github-readme-stats.vercel.app/api?username=bolenge&show_icons=true&theme=radical"
     />
-  </div>
-</div>
+</p>
+
+<p>
+  <img
+    align="right"
+    width="50%"
+    alt="Top langs"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolenge&show_icons=true&theme=radical&layout=compact"
+  />
+</p>
 
 <br>
 
