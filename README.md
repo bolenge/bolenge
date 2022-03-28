@@ -1,11 +1,9 @@
 
-### Hey ! I'm Don de Dieu Bolenge 👋
+### Hey 👋 ! I'm Don de Dieu BOLENGE
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Excited when it comes to reading and getting challenged
-- 🎓 &nbsp; Bachelor's degree in software engineering at <a href="http://isipa.cd">I.S.I.P.A</a>
-- 💼 &nbsp; Working at Kinshasa Digital
+- 🎓 &nbsp; Bachelor's degree in Software Engineering
 - 🌱 &nbsp; Lovers of the development of strong backend applications
 
 <h3>🛠 Tech Stack</h3>
@@ -17,9 +15,14 @@
 - 🔧&nbsp; Tools    : Git | GitHub | Bitbucket
 <br/>
 
-[![Don de Dieu Bolenge's github stats](https://github-readme-stats.vercel.app/api?username=bolenge&show_icons=true&theme=radical)](https://github.com/bolenge/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolenge&show_icons=true&theme=radical&layout=compact)](https://github.com/bolenge/github-readme-stats)
+<div style="display: flex;">
+  <div style="width: 50%;">
+    [![My github stats](https://github-readme-stats.vercel.app/api?username=bolenge&show_icons=true&theme=radical)](https://github.com/bolenge/github-readme-stats)
+  </div>
+  <div style="width: 50%;">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolenge&show_icons=true&theme=radical&layout=compact)](https://github.com/bolenge/github-readme-stats)
+  </div>
+</div>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
