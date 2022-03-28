@@ -10,14 +10,10 @@
 
 * Programming Languages
 
-<img src="/php.png" alt="php" width="30" />
-
-- 💻 &nbsp; Language : JavaScript | PHP | Dart | TypeScript
-- 👨‍💻 &nbsp; Backend  : Nodejs | Laravel | Flutter
-- 🌐 &nbsp; Frontend : HTML | CSS | JavaScript | VueJs & Nuxtjs | Jquery | SASS
-- 🛢 &nbsp; Database : MySQL | MongoDB | BolengeDB
-- 🔧&nbsp; Tools    : Git | GitHub | Bitbucket
-<br/>
+<img src="/logos/php.png" alt="php" width="30" />
+<img src="/logos/javascript.png" alt="javascript" width="30" />
+<img src="/logos/html.png" alt="html" width="30" />
+<img src="/logos/css.png" alt="css" width="30" />
 
 <p>
   <img
