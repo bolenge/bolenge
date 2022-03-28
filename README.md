@@ -18,7 +18,7 @@
 <p>
   <img
     align="left"
-    width="53%"
+    width="51%"
     alt="My Stats"
     src="https://github-readme-stats.vercel.app/api?username=bolenge&show_icons=true&theme=radical"
   />
@@ -26,6 +26,14 @@
     width="45%"
     alt="Top langs"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolenge&show_icons=true&theme=radical&layout=compact"
+  />
+</p>
+
+<p>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=bolenge&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
+    alt="GitHub Streak Stats"
+    height="200"
   />
 </p>
 
