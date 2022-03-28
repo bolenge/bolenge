@@ -32,6 +32,8 @@
   </div>
 </div>
 
+<br>
+
 <div width="100%">
   <h3> 🤝🏻 Connect with Me </h3>
 
