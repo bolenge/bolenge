@@ -23,9 +23,7 @@
       alt="My Stats"
       src="https://github-readme-stats.vercel.app/api?username=bolenge&show_icons=true&theme=radical"
       />
-  </div>
-  <div>
-    <img
+      <img
       align="right"
       width="50%"
       alt="Top langs"
