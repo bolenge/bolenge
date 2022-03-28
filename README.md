@@ -1,12 +1,15 @@
 
-### Hey 👋 ! I'm Don de Dieu BOLENGE
+## Hey 👋 ! I'm Don de Dieu BOLENGE
 
-<h3> 👨🏻‍💻 About Me </h3>
+### 👨🏻‍💻 About Me
 
 - 🎓 &nbsp; Bachelor's degree in Software Engineering
 - 🌱 &nbsp; Lovers of the development of strong backend applications
 
-<h3>🛠 Tech Stack</h3>
+### Tech Stacks
+
+* Programming Languages
+[<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="70">](https://docs.python.org/3/library/index.html)
 
 - 💻 &nbsp; Language : JavaScript | PHP | Dart | TypeScript
 - 👨‍💻 &nbsp; Backend  : Nodejs | Laravel | Flutter
