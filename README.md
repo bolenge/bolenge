@@ -10,7 +10,27 @@
 
 * Programming Languages
 
-<img src="/logos/php.png" alt="php" width="50" margin="20" />&nbsp;&nbsp;&nbsp;<img src="/logos/javascript.png" alt="javascript" width="50" margin="20" />&nbsp;&nbsp;&nbsp;<img src="/logos/html.png" alt="html" width="50" margin="20" />&nbsp;&nbsp;&nbsp;<img src="/logos/css.png" alt="css" width="50" margin="20" />
+<img src="/logos/javascript.png" alt="javascript" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/php.png" alt="php" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/html.png" alt="html" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/css.png" alt="css" width="50" margin="20" />
+
+* Technos & Framework
+
+<img src="/logos/node-js.png" alt="node-js" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/express.png" alt="express" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/laravel.png" alt="laravel" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/vuejs.png" alt="vuejs" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/nuxtjs.png" alt="nuxtjs" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/jquery.png" alt="jquery" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/vuetify.png" alt="vuetify" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/sass.png" alt="sass" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/bootstrap.png" alt="bootstrap" width="50" margin="20" />
+
+* Databases Engine
+
+<img src="/logos/mysql.png" alt="mysql" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/mongodb.png" alt="mongodb" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/sqlite.png" alt="sqlite" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/indexeddb.png" alt="indexeddb" width="50" margin="20" />
+
+* Release Management & CI
+
+<img src="/logos/git.png" alt="git" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/github.png" alt="github" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/gitlab.png" alt="gitlab" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/bitbucket.png" alt="bitbucket" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/heroku.png" alt="heroku" width="50" margin="20" />
+
+* API & API Documentation
+
+<img src="/logos/google-maps.png" alt="google-maps" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/swagger.png" alt="swagger" width="50" margin="20" />
+
+* Modeling and Project Management
+
+<img src="/logos/uml.png" alt="uml" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/scrum.png" alt="scrum" width="50" margin="20" />
 
 <p>
   <img
