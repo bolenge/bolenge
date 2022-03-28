@@ -65,7 +65,7 @@
 
 ## Connect with Me 🤝🏻
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/don-de-dieu-bolenge/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DondeDieuBolenge-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://www.instagram.com/dondedieu.bolenge/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-DondeDieuBolenge-blue?style=flat-square&logo=instagram"></a>
   <a href="mailto:pacilinja2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dondedieubolenge@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
