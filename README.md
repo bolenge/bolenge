@@ -66,9 +66,10 @@
 ## Connect with Me 🤝🏻
 
 <p>
+  <a href="mailto:dondedieubolenge@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dondedieubolenge@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
   <a href="https://linkedin.com/in/don-de-dieu-bolenge/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DondeDieuBolenge-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://www.instagram.com/dondedieu.bolenge/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-DondeDieuBolenge-blue?style=flat-square&logo=instagram"></a>
-  <a href="mailto:pacilinja2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dondedieubolenge@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
+  <a href="https://www.twitter.com/bolenge_/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-DondeDieuBolenge-blue?style=flat-square&logo=twitter"></a>
 </p>
 
 ⭐️ [@bolenge](https://github.com/bolenge)
