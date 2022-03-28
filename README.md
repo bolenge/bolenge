@@ -1,36 +1,38 @@
 
-## Hey 👋 ! I'm Don de Dieu BOLENGE
+# Hey 👋 ! I'm Don de Dieu BOLENGE
 
-### 👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me
 
 - 🎓 &nbsp; Bachelor's degree in Software Engineering
 - 🌱 &nbsp; Lovers of the development of strong backend applications
 
-### Tech Stacks
+## Tech Stacks
 
-* Programming Languages
+### Programming Languages
 
 <img src="/logos/javascript.png" alt="javascript" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/php.png" alt="php" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/html.png" alt="html" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/css.png" alt="css" width="50" margin="20" />
 
-* Technos & Framework
+### Technos & Framework
 
 <img src="/logos/node-js.png" alt="node-js" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/express.png" alt="express" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/laravel.png" alt="laravel" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/vuejs.png" alt="vuejs" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/nuxtjs.png" alt="nuxtjs" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/jquery.png" alt="jquery" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/vuetify.png" alt="vuetify" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/sass.png" alt="sass" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/bootstrap.png" alt="bootstrap" width="50" margin="20" />
 
-* Databases Engine
+### Databases Engine
 
 <img src="/logos/mysql.png" alt="mysql" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/mongodb.png" alt="mongodb" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/sqlite.png" alt="sqlite" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/indexeddb.png" alt="indexeddb" width="50" margin="20" />
 
-* Release Management & CI
+### Release Management & CI
 
 <img src="/logos/git.png" alt="git" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/github.png" alt="github" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/gitlab.png" alt="gitlab" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/bitbucket.png" alt="bitbucket" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/heroku.png" alt="heroku" width="50" margin="20" />
 
-* API & API Documentation
+### API & API Documentation
 
 <img src="/logos/google-maps.png" alt="google-maps" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/swagger.png" alt="swagger" width="50" margin="20" />
 
-* Modeling and Project Management
+### Modeling and Project Management
 
 <img src="/logos/uml.png" alt="uml" width="50" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/logos/scrum.png" alt="scrum" width="50" margin="20" />
+
+## My Github Stats
 
 <p>
   <img
@@ -61,16 +63,12 @@
   />
 </p>
 
-<br>
+## Connect with Me 🤝🏻
 
-<div width="100%">
-  <h3> 🤝🏻 Connect with Me </h3>
-
-  <p align="center">
+<p align="center">
   <a href="https://linkedin.com/in/don-de-dieu-bolenge/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DondeDieuBolenge-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://www.instagram.com/dondedieu.bolenge/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-DondeDieuBolenge-blue?style=flat-square&logo=instagram"></a>
   <a href="mailto:pacilinja2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dondedieubolenge@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
-  </p>
-</div>
+</p>
 
 ⭐️ [@bolenge](https://github.com/bolenge)
