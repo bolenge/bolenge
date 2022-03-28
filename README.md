@@ -10,7 +10,7 @@
 
 * Programming Languages
 
-<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="30" />
+<img src="https://cdn.iconscout.com/icon/free/png-256/php-2038871.png" alt="php" width="30" />
 
 - 💻 &nbsp; Language : JavaScript | PHP | Dart | TypeScript
 - 👨‍💻 &nbsp; Backend  : Nodejs | Laravel | Flutter
