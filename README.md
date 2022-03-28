@@ -15,14 +15,14 @@
 - 🔧&nbsp; Tools    : Git | GitHub | Bitbucket
 <br/>
 
-<p style="display: flex;">
-  <p style="width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=bolenge&show_icons=true&theme=radical"  align="left" alt="My Stats"/>
-  </p>
-  <p style="width: 50%;">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolenge&show_icons=true&theme=radical&layout=compact)](https://github.com/bolenge/github-readme-stats)
-  </p>
-</p>
+<div style="display: flex;">
+  <div style="width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=bolenge&show_icons=true&theme=radical" alt="My Stats"/>
+  </div>
+  <div style="width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolenge&show_icons=true&theme=radical&layout=compact" alt="Top langs" />
+  </div>
+</div>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
