@@ -17,7 +17,7 @@
 
 <p style="display: flex;">
   <p style="width: 50%;">
-    [![My github stats](https://github-readme-stats.vercel.app/api?username=bolenge&show_icons=true&theme=radical)](https://github.com/bolenge/github-readme-stats)
+    <img src="https://github-readme-stats.vercel.app/api?username=bolenge&show_icons=true&theme=radical"  align="left" alt="My Stats"/>
   </p>
   <p style="width: 50%;">
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolenge&show_icons=true&theme=radical&layout=compact)](https://github.com/bolenge/github-readme-stats)
