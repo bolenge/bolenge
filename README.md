@@ -22,14 +22,11 @@
     alt="My Stats"
     src="https://github-readme-stats.vercel.app/api?username=bolenge&show_icons=true&theme=radical"
     />
-</p>
-
-<p>
-  <img
-    width="50%"
-    alt="Top langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolenge&show_icons=true&theme=radical&layout=compact"
-  />
+    <img
+      width="50%"
+      alt="Top langs"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolenge&show_icons=true&theme=radical&layout=compact"
+    />
 </p>
 
 <br>
