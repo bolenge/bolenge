@@ -31,7 +31,13 @@
 
 <p>
   <img
-    width="100%"
+    width="50%"
+    height="200"
+    alt="GitHub Streak Stats"
+    src="https://github-profile-trophy.vercel.app/?username=bolenge&theme=radical&no-frame=true&column=3&row=2"
+  />
+  <img
+    width="47%"
     height="200"
     alt="GitHub Streak Stats"
     src="https://github-readme-streak-stats.herokuapp.com/?user=bolenge&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
