@@ -8,26 +8,9 @@
 <br>
 <br>
 
-### Programming Languages
-
-<img src="./logos/php.png" alt="php" width="30" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./logos/javascript.png" alt="javascript" width="30" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./logos/typescript.svg" alt="css" width="30" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./logos/html.png" alt="html" width="30" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./logos/css.png" alt="css" width="30" margin="20" />
-
-### Technos & Framework
-
-<img src="./logos/laravel.svg" alt="laravel" width="30" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./logos/node-js.png" alt="node-js" width="30" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./logos/express.png" alt="express" width="30" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./logos/vuejs.svg" alt="vuejs" width="30" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./logos/nuxtjs.png" alt="nuxtjs" width="30" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./logos/jquery.png" alt="jquery" width="30" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./logos/sass.png" alt="sass" width="30" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./logos/bootstrap.png" alt="bootstrap" width="30" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./logos/wordpress.png" alt="wordpress" width="30" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./logos/elementor.png" alt="elementor" width="30" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./logos/timber.png" alt="elementor" width="30" margin="20" />
-
-### Databases Engine
-
-<img src="./logos/mysql.png" alt="mysql" width="30" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./logos/mongodb.png" alt="mongodb" width="30" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./logos/sqlite.png" alt="sqlite" width="30" margin="20" />
-
-### Release Management & CI/CD
-
-<img src="./logos/git.png" alt="git" width="30" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./logos/github.png" alt="github" width="30" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./logos/bitbucket.png" alt="bitbucket" width="30" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./logos/heroku.png" alt="heroku" width="30" margin="20" />
-
-### Modeling and Project Management
-<p>
-  <img src="./logos/uml.png" alt="uml" width="30" margin="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./logos/scrum.png" alt="scrum" width="30" margin="20" />
-</p>
+### Programming Languages & Tools
+<br>
+<img src="./img/cover-bolenge-en.jpg" alt="php" />
 
 ### My Github Stats
 <br>
